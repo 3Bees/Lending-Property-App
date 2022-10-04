@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1032232973030",
+    "project_id": "witbit-6c3e7",
+    "storage_bucket": "witbit-6c3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032232973030:android:13fa76ca7a1a509bbfc127",
+        "android_client_info": {
+          "package_name": "com.witbit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032232973030-1eondnedfrq98epdnar2llr5pduq9e65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.witbit.app",
+            "certificate_hash": "0614a85b3b052682c76674784f8161eeaf2396e3"
+          }
+        },
+        {
+          "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCwjseElB1IhZVcqFvrMR18CSbWItK9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032232973030-n6h5kpurmg3ioomj0tibg6pelr2afc0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.witbit.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032232973030:android:817ce4fc21c64223bfc127",
+        "android_client_info": {
+          "package_name": "com.witbitnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032232973030-70fljfuq0ds32je2u10bsdgjh1vcdb0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.witbitnative",
+            "certificate_hash": "cda6c3a519cc1e80ca3701fde2c862e18f844bb6"
+          }
+        },
+        {
+          "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbCwjseElB1IhZVcqFvrMR18CSbWItK9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032232973030-2ch9qtfq83md92g9tdk92nbo5n6nfp2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032232973030-n6h5kpurmg3ioomj0tibg6pelr2afc0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.witbit.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
